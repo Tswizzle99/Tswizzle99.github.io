@@ -1,0 +1,23 @@
+h1 {
+    font-family:sans-serif;
+    color:rgb(221, 234, 234);
+}
+body {
+    text-align:center;
+    background-color:rgb(104, 104, 157);
+}
+p {
+    font-size:20px;
+    color:rgb(14, 14, 14);
+}
+a {
+    font-size:50px;
+    color:white;
+
+}
+img {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+
+}
