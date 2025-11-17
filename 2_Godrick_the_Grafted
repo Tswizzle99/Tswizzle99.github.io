@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            GODRICK
+        </title>
+    </head>
+    <link rel="stylesheet" href="stylesheet2.css">
+    </head>
+    <body>
+        <h1 >GODRICK</h1>
+        <a class="btn1" href="2.5_Page.html"> LOCAION AND DESCRIPTION
+                        </a>
+        <img src="pic2.5_Godrick_the_grafted.jpg" width="700px"/>

@@ -1,14 +1,21 @@
 h1 {
     font-family:sans-serif;
-    color:rgb(221, 234, 234);
+    color:rgb(1, 9, 9);
+    padding: 25px;
 }
 body {
     text-align:center;
-    background-color:rgb(55, 133, 139);
+    background-image: url("Pic.1_Elden_Ring.jpg");
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: .5rem;
+
 }
 p {
     font-size:20px;
-    color:rgb(14, 14, 14);
+    color:rgb(242, 231, 231);
 }
 a {
     font-size:50px;
@@ -16,8 +23,51 @@ a {
  
 }
 img {
-    display:block;
     margin-left:auto;
     margin-right:auto;
 
+}
+.btn1 {
+    background-color: rgb(0, 115, 255);
+    padding-top: 1.5;
+    padding-left: 35px;
+    padding-right: 35px;
+    text-decoration: none;
+    border-radius: .5rem;
+    font-size: 25px;
+    cursor: all-scroll;
+    display: block;
+    
+}
+table {
+    background-color: white;
+    border-radius: 10px;
+}
+td {
+    border:1px solid black;
+    
+}
+.btn1:hover {
+    background-color: black;
+    transform: scale(1.10);
+}
+h2 {
+    color: white;
+    border-radius: 1rem;
+}
+.btn2 {
+    background-color: rgb(0, 115, 255);
+    padding-top: 1.5;
+    padding-left: 35px;
+    padding-right: 35px;
+    text-decoration: none;
+    border-radius: .5rem;
+    font-size: 25px;
+    cursor: all-scroll;
+    display: block;
+    
+}
+.btn2:hover {
+    background-color: black;
+    transform: scale(1.10);
 }

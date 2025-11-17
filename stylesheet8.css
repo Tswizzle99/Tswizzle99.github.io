@@ -1,0 +1,41 @@
+body {
+    text-align:center;
+    background-image: url("Pic8&9_The_Crumbling_Farum_Azula_region.jpg");
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: .5rem;
+    background-repeat: no-repeat;
+    background-position: center;  
+    background-size: cover; 
+    min-height: 100vh;
+}
+h1 {
+    font-size: 40px;
+    color: aliceblue;
+}
+p {
+    color: aliceblue;
+    font-size: 20px;
+}
+img {
+    margin-left:auto;
+    margin-right:auto;
+
+}
+.btn1 {
+    background-color: rgb(0, 115, 255);
+    padding-top: 1.5;
+    padding-left: 35px;
+    padding-right: 35px;
+    text-decoration: none;
+    border-radius: .5rem;
+    font-size: 25px;
+    cursor: all-scroll;
+    display: block;
+}
+.btn1:hover {
+    background-color: black;
+    transform: scale(1.10);
+}
